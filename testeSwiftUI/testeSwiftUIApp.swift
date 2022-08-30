@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-
 @main
 struct testeSwiftUIApp: App {
     var body: some Scene {
